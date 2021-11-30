@@ -1,1 +1,12 @@
-theme: jekyll-theme-architect
+theme: minima
+title: Coumputational  Linguist
+author: Michael Bateman
+email: michael.bateman.com@gmail.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  Blog site for NLP and Data Science
+
+twitter_username: m_r_bateman
+github_username:  mbateman
+
+show_excerpts: true # set to false to remove excerpts on the homepage
