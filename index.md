@@ -1,3 +1,1 @@
-# Michael Bateman
 
-## Computational Linguist
